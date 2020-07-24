@@ -7,4 +7,4 @@ This report will cover the steps of implementation, from input processing to bui
 
 Ultimately, we will present our own initiatives for improving the accuracy of the network and optimizing the time consumption.
 
-The entire project report is in the file Multi View Convolutional Neural Networks Algorithm - Final.pdf in this GitHub repository.
+The entire project report is in the file "Multi View Convolutional Neural Networks Algorithm.pdf" in this GitHub repository.
