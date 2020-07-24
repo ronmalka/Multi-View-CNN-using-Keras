@@ -1,6 +1,4 @@
-# Multi-view-CNN-using-Keras
-
-Multi View Convolutional Neural Networks Algorithm
+# Multi View Convolutional Neural Networks Algorithm
 
 MAYAN MENAHEM • RON MALKA • YISHAY NADAV
 
